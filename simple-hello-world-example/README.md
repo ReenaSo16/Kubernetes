@@ -1,0 +1,1 @@
+ simple YAML manifest to create a Kubernetes Pod with a single container running a basic "Hello World" application:
